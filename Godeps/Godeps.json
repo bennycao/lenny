@@ -1,0 +1,35 @@
+{
+	"ImportPath": "github.com/bennycao/motorhead",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.0.1-210-g72d15a0",
+			"Rev": "72d15a0fc0b773a59c00f78b9e7d97eeb8c4281f"
+		},
+		{
+			"ImportPath": "github.com/zmb3/spotify",
+			"Rev": "84bf5e353eaccd52f17bbbfdfd1accfc56361bb6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "74bd44bb0584f94b166dd892ff9817d4264d359c"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "74bd44bb0584f94b166dd892ff9817d4264d359c"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "ad516a297a9f2a74ecc244861b298c94bdd28b9d"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "ad516a297a9f2a74ecc244861b298c94bdd28b9d"
+		}
+	]
+}
